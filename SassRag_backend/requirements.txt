@@ -1,0 +1,11 @@
+fastapi==0.111.0
+pydantic==2.7.2
+qdrant-client==1.9.1
+langchain-openai==0.1.8
+langchain-community==0.2.1
+langchain-core==0.2.3
+langchain-text-splitters==0.2.0
+uvicorn==0.30.0
+python-multipart==0.0.9
+pymupdf==1.24.5
+python-docx==1.1.2
