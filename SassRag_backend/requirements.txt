@@ -9,3 +9,4 @@ uvicorn==0.30.0
 python-multipart==0.0.9
 pymupdf==1.24.5
 python-docx==1.1.2
+langfuse==2.33.1
